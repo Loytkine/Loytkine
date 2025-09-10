@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Danış 👋</h1>
 <p align="center">
-  🚀 Yazılıma meraklı, sürekli öğrenmeye açık bir öğrenciyim<br>
-  🎓 İstanbul Topkapı Üniversitesi'nde eğitimime yeni başladım <br>
-  💡 Özellikle web geliştirme ve  yapay zeka üzerinde kendimi geliştirmek istiyorum
+  🚀 I am a student passionate about software, always eager to learn<br>
+  🎓 I have recently started my studies at Istanbul Topkapi University<br>
+  💡 I especially want to improve myself in web development and artificial intelligence<br>
 </p>
 
 ---- 
