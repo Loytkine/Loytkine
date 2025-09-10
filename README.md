@@ -8,10 +8,10 @@
 ---- 
 
 ### 📌 About Me
- 🎓 I am a student at Istanbul Topkapi University
- 💻 Currently learning the basics of software development and building small projects
- 🌍 I want to contribute to open-source projects
- ✨ My goal is to develop professional projects in the future and be active in the industry
+ 🎓 I am a student at Istanbul Topkapi University<br>
+ 💻 Currently learning the basics of software development and building small projects<br>
+ 🌍 I want to contribute to open-source projects<br>
+ ✨ My goal is to develop professional projects in the future and be active in the industry<br>
  
  ---
 
