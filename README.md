@@ -8,10 +8,10 @@
 ---- 
 
 ### 📌 About Me
- - 🎓 İstanbul Topkapı Üniversitesi Öğrencisiyim
- - 💻 Şu anda yazılımın temellerini öğeniyorum ve küçük projeler yapıyorum
- - 🌍 Açık kaynak projelere katkı yapmak istiyorum 
- - ✨ Hedefim ilerde profesyonel projeler geliştirmek ve sektörde aktif olmak
+ 🎓 I am a student at Istanbul Topkapi University
+ 💻 Currently learning the basics of software development and building small projects
+ 🌍 I want to contribute to open-source projects
+ ✨ My goal is to develop professional projects in the future and be active in the industry
  
  ---
 
