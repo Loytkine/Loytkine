@@ -31,4 +31,4 @@
 
  ### 🌐 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daniscukurcayi)
-📧 **Email:** [danisckrcyr@gmail.com](mailto:danisckrcyr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danisckrcyr@gmail.com)
