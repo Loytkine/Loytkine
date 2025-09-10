@@ -7,7 +7,7 @@
 
 ---- 
 
-###📌 About Me
+### 📌 About Me
  - 🎓 İstanbul Topkapı Üniversitesi Öğrencisiyim
  - 💻 Şu anda yazılımın temellerini öğeniyorum ve küçük projeler yapıyorum
  - 🌍 Açık kaynak projelere katkı yapmak istiyorum 
